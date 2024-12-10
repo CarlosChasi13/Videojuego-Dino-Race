@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: 970fc33c894df344e8c9f6ddf5b9e813
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2957861477193657742
+    second: Anquilosaurio-Sheet_0
+  - first:
+      213: -3310403360398855107
+    second: Anquilosaurio-Sheet_1
+  - first:
+      213: -5699462480261958379
+    second: Anquilosaurio-Sheet_2
+  - first:
+      213: 4883821168689417848
+    second: Anquilosaurio-Sheet_3
+  - first:
+      213: 1687422635755789028
+    second: Anquilosaurio-Sheet_4
+  - first:
+      213: 5997675832268959957
+    second: Anquilosaurio-Sheet_5
+  - first:
+      213: -8525533890810797770
+    second: Anquilosaurio-Sheet_6
+  - first:
+      213: 6176687188315543661
+    second: Anquilosaurio-Sheet_7
+  - first:
+      213: 5801297753503574152
+    second: Anquilosaurio-Sheet_8
+  - first:
+      213: 9118168473801363066
+    second: Anquilosaurio-Sheet_9
+  - first:
+      213: -5549780089223969772
+    second: Anquilosaurio-Sheet_10
+  - first:
+      213: -1872301097013828768
+    second: Anquilosaurio-Sheet_11
+  - first:
+      213: -2015440887416149250
+    second: Anquilosaurio-Sheet_12
+  - first:
+      213: 948828910296756832
+    second: Anquilosaurio-Sheet_13
+  - first:
+      213: -1199645814412307822
+    second: Anquilosaurio-Sheet_14
+  - first:
+      213: 3139825208949869539
+    second: Anquilosaurio-Sheet_15
+  - first:
+      213: -1007781166812543680
+    second: Anquilosaurio-Sheet_16
+  - first:
+      213: -6296542615262904120
+    second: Anquilosaurio-Sheet_17
+  - first:
+      213: -1441434672921750361
+    second: Anquilosaurio-Sheet_18
+  - first:
+      213: 817606928419136729
+    second: Anquilosaurio-Sheet_19
+  - first:
+      213: -221990310450861349
+    second: Anquilosaurio-Sheet_20
+  - first:
+      213: 5698551790623161385
+    second: Anquilosaurio-Sheet_21
+  - first:
+      213: -4692284540444439596
+    second: Anquilosaurio-Sheet_22
+  - first:
+      213: -791718084938640066
+    second: Anquilosaurio-Sheet_23
+  - first:
+      213: -4462011041517012651
+    second: Anquilosaurio-Sheet_24
+  - first:
+      213: 249595790850601415
+    second: Anquilosaurio-Sheet_25
+  - first:
+      213: 3477813197655832760
+    second: Anquilosaurio-Sheet_26
+  - first:
+      213: 8245941973505829419
+    second: Anquilosaurio-Sheet_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 2179
+        width: 455
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8da0f2975f6c0920800000000000000
+      internalID: 2957861477193657742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2180
+        width: 413
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34ba28dea51f02d0800000000000000
+      internalID: -3310403360398855107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 2181
+        width: 399
+        height: 269
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 515b15d321177e0b0800000000000000
+      internalID: -5699462480261958379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 2180
+        width: 390
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e04423a71d6c340800000000000000
+      internalID: 4883821168689417848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 2180
+        width: 390
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea5d2662fdea6710800000000000000
+      internalID: 1687422635755789028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 2180
+        width: 388
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0365474660c3350800000000000000
+      internalID: 5997675832268959957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1668
+        width: 393
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6312ba5b8183fa980800000000000000
+      internalID: -8525533890810797770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1668
+        width: 394
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d681144b54008b550800000000000000
+      internalID: 6176687188315543661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1668
+        width: 402
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8882ad9f199528050800000000000000
+      internalID: 5801297753503574152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1668
+        width: 431
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e8813baed3a8e70800000000000000
+      internalID: 9118168473801363066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1668
+        width: 453
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4140540b9683bf2b0800000000000000
+      internalID: -5549780089223969772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 1668
+        width: 484
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 063aae772104406e0800000000000000
+      internalID: -1872301097013828768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1156
+        width: 486
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa23cfe037b704e0800000000000000
+      internalID: -2015440887416149250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1156
+        width: 486
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062fbd6eddaea2d00800000000000000
+      internalID: 948828910296756832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1156
+        width: 482
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2929bafdc700a5fe0800000000000000
+      internalID: -1199645814412307822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1156
+        width: 470
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eb064c5466e29b20800000000000000
+      internalID: 3139825208949869539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 1156
+        width: 443
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0454fc44e54a302f0800000000000000
+      internalID: -1007781166812543680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 1156
+        width: 438
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c045281adf2e98a0800000000000000
+      internalID: -6296542615262904120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 644
+        width: 443
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a451915dcefefbe0800000000000000
+      internalID: -1441434672921750361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 644
+        width: 452
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d422566b29b85b00800000000000000
+      internalID: 817606928419136729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 644
+        width: 469
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda6ff12df45becf0800000000000000
+      internalID: -221990310450861349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 644
+        width: 475
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92c724e49a2551f40800000000000000
+      internalID: 5698551790623161385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2075
+        y: 644
+        width: 480
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db80cd3218a1eeb0800000000000000
+      internalID: -4692284540444439596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2587
+        y: 644
+        width: 479
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35daf0b8904305f0800000000000000
+      internalID: -791718084938640066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 132
+        width: 480
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559f1863990c312c0800000000000000
+      internalID: -4462011041517012651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 132
+        width: 480
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c13513ac0eb67300800000000000000
+      internalID: 249595790850601415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 132
+        width: 479
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8f0715daca34030800000000000000
+      internalID: 3477813197655832760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Anquilosaurio-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 132
+        width: 474
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a6c4939887f6270800000000000000
+      internalID: 8245941973505829419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Anquilosaurio-Sheet_0: 2957861477193657742
+      Anquilosaurio-Sheet_1: -3310403360398855107
+      Anquilosaurio-Sheet_10: -5549780089223969772
+      Anquilosaurio-Sheet_11: -1872301097013828768
+      Anquilosaurio-Sheet_12: -2015440887416149250
+      Anquilosaurio-Sheet_13: 948828910296756832
+      Anquilosaurio-Sheet_14: -1199645814412307822
+      Anquilosaurio-Sheet_15: 3139825208949869539
+      Anquilosaurio-Sheet_16: -1007781166812543680
+      Anquilosaurio-Sheet_17: -6296542615262904120
+      Anquilosaurio-Sheet_18: -1441434672921750361
+      Anquilosaurio-Sheet_19: 817606928419136729
+      Anquilosaurio-Sheet_2: -5699462480261958379
+      Anquilosaurio-Sheet_20: -221990310450861349
+      Anquilosaurio-Sheet_21: 5698551790623161385
+      Anquilosaurio-Sheet_22: -4692284540444439596
+      Anquilosaurio-Sheet_23: -791718084938640066
+      Anquilosaurio-Sheet_24: -4462011041517012651
+      Anquilosaurio-Sheet_25: 249595790850601415
+      Anquilosaurio-Sheet_26: 3477813197655832760
+      Anquilosaurio-Sheet_27: 8245941973505829419
+      Anquilosaurio-Sheet_3: 4883821168689417848
+      Anquilosaurio-Sheet_4: 1687422635755789028
+      Anquilosaurio-Sheet_5: 5997675832268959957
+      Anquilosaurio-Sheet_6: -8525533890810797770
+      Anquilosaurio-Sheet_7: 6176687188315543661
+      Anquilosaurio-Sheet_8: 5801297753503574152
+      Anquilosaurio-Sheet_9: 9118168473801363066
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

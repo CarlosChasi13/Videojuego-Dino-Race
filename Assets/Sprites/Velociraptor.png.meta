@@ -1,0 +1,650 @@
+fileFormatVersion: 2
+guid: 4b0d4b561e432b14992502a4f4764dd0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4559865252691926515
+    second: Velociraptor_0
+  - first:
+      213: -2834251665759648554
+    second: Velociraptor_1
+  - first:
+      213: 3574565917236035124
+    second: Velociraptor_2
+  - first:
+      213: 8230664320966771389
+    second: Velociraptor_3
+  - first:
+      213: -6933135230665699080
+    second: Velociraptor_4
+  - first:
+      213: 715119972356906748
+    second: Velociraptor_5
+  - first:
+      213: -8509853715247345833
+    second: Velociraptor_6
+  - first:
+      213: -5553341108363933266
+    second: Velociraptor_7
+  - first:
+      213: 1745316122849135369
+    second: Velociraptor_8
+  - first:
+      213: 55071920080017333
+    second: Velociraptor_9
+  - first:
+      213: -1632443640470716439
+    second: Velociraptor_10
+  - first:
+      213: 2278493605128612556
+    second: Velociraptor_11
+  - first:
+      213: -6267653147030939680
+    second: Velociraptor_12
+  - first:
+      213: 3502643266153855443
+    second: Velociraptor_13
+  - first:
+      213: -6638908871315149669
+    second: Velociraptor_14
+  - first:
+      213: -6853621354156238563
+    second: Velociraptor_15
+  - first:
+      213: -696615632571481079
+    second: Velociraptor_16
+  - first:
+      213: 6999378680372025006
+    second: Velociraptor_17
+  - first:
+      213: -8910287215683880432
+    second: Velociraptor_18
+  - first:
+      213: -1426851618637548656
+    second: Velociraptor_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Velociraptor_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a3a1ba954e8d64a8f935cf4f2a7ca0
+      internalID: -494001820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1800
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7fd4aa85c424e240b82eb690546b7f0
+      internalID: -124267345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_2
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1800
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4e78ca5f1668c48b74a292fa3af203
+      internalID: 946355647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_3
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1800
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5f2b87c8d1e224f83c41b288316b72
+      internalID: 1080767886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_4
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1800
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3342f5630ced32f488f06f85fa0d7fd1
+      internalID: 917874088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a1c6e2eb8ecde41b2652044f8aa12a
+      internalID: 594889251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_6
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1200
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf597c85b280684bbb59904dbb7aa56
+      internalID: -1097236918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_7
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1200
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9198071987e62046a604caa84b1723d
+      internalID: -1015762352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_8
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 1200
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94980b29ab8ece459f9640bf058a5e7
+      internalID: -817439093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_9
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 1200
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e580da2b8449e46a631effeb38f1e4
+      internalID: 1055484728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5c982044b7b294d9c7717d859def7b
+      internalID: -2089992987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_11
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 600
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e6e62d66503cb46ac8a3ba089c99cf
+      internalID: -669190191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_12
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 600
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943273be881d85b4fb8cd8ddd148d8f7
+      internalID: -895348877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_13
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 600
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62065f59dec26fa4f91fc72a9be536bd
+      internalID: -283036831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_14
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 600
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46df235fac8799843934fa843e17cc4c
+      internalID: 1604904114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bec3f7bfc9904941b07db15c88f0cfc
+      internalID: 738173130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 0
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de49c7954964efb4c82ca53dab5349a0
+      internalID: 1913847243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_17
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdece64a4128517409df9dda7bcf6caa
+      internalID: 304352696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_18
+      rect:
+        serializedVersion: 2
+        x: 1836
+        y: 0
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850c36e28bc28af4a88b869e3959ea31
+      internalID: -1234360751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Velociraptor_19
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 0
+        width: 612
+        height: 600
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5340c2a19fd8d8a44b1828f04936f0a5
+      internalID: -1084979592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d52042cdefa05d54d9424a07eb4f9498
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Velociraptor_0: -494001820
+      Velociraptor_1: -124267345
+      Velociraptor_10: -2089992987
+      Velociraptor_11: -669190191
+      Velociraptor_12: -895348877
+      Velociraptor_13: -283036831
+      Velociraptor_14: 1604904114
+      Velociraptor_15: 738173130
+      Velociraptor_16: 1913847243
+      Velociraptor_17: 304352696
+      Velociraptor_18: -1234360751
+      Velociraptor_19: -1084979592
+      Velociraptor_2: 946355647
+      Velociraptor_3: 1080767886
+      Velociraptor_4: 917874088
+      Velociraptor_5: 594889251
+      Velociraptor_6: -1097236918
+      Velociraptor_7: -1015762352
+      Velociraptor_8: -817439093
+      Velociraptor_9: 1055484728
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
